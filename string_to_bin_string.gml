@@ -1,4 +1,4 @@
-///string_to_bin_string(string_argument) - takes a string arguemtn, and returns binary sequence as a string.
+///string_to_bin_string(string_argument) - takes a string argument, and returns binary sequence as a string.
 // 2024-06-07, @azsimuth.
 arg = string(argument0);
 arg_len = string_length(arg);
